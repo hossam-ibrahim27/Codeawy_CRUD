@@ -22,3 +22,6 @@ The project focuses on demonstrating clean UI, reusable components, and reliable
 - **React Hooks** for state management  
 - **Type safety** with TypeScript  
 - **Clean and maintainable architecture**
+
+## 🚀 Live Demo
+[Visit on Vercel](https://codeawy-crud.vercel.app/)
